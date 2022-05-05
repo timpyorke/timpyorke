@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+---
+
+My name is Thongphitak Sowanna. I'm an Android developer from Bangkok, Thailand 🇹🇭 
+
 <!--
 **timpyorke/timpyorke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
