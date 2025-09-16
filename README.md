@@ -30,6 +30,7 @@ I'm a Mobile developer from Bangkok, Thailand
 
 #### Other
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Subabase](https://img.shields.io/badge/Subabase-47A248?style=for-the-badge&logo=supabase&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
